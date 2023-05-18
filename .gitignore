@@ -1,4 +1,4 @@
 node_modules
 .vscode
-target/
+/target/
 Cargo.lock
